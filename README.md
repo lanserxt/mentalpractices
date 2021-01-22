@@ -21,3 +21,7 @@ Practical test for one Siberian Company. You need to relax and set mind waves in
 * Get User Profile
 * Get Practices
 * Custom URLSession manager
+
+## Setup
+cd your_path_toProject_podfile
+pod update --vebose
