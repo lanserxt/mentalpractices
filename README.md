@@ -1,5 +1,5 @@
 # iOS Mental Practices Browser + player
-Practical test for one Siberian Company. You need to relax and set mind waves into positive shape )
+Practical test for one Cool Company. You need to relax and set mind waves into positive shape )
 
 ## Techs
 * Swift 5
