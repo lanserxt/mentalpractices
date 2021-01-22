@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  HCPractise
+
+  Created by Anton Gubarenko on 21.01.2021.
+  
+*/
+"Loading" = "Загрузка";
+"Hello, %@!" = "Привет, %@!";
+"Restart" = "Перезапуск";

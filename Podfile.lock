@@ -1,0 +1,42 @@
+PODS:
+  - JGProgressHUD (2.2)
+  - KeychainAccess (4.2.1)
+  - Kingfisher (5.15.8):
+    - Kingfisher/Core (= 5.15.8)
+  - Kingfisher/Core (5.15.8)
+  - SnapKit (5.0.1)
+  - SwiftDate (5.1.0)
+  - SwiftHEXColors (1.4.1)
+  - SwiftyJSON (5.0.0)
+
+DEPENDENCIES:
+  - JGProgressHUD
+  - KeychainAccess
+  - Kingfisher (~> 5.0)
+  - SnapKit
+  - SwiftDate (~> 5.0)
+  - SwiftHEXColors
+  - SwiftyJSON
+
+SPEC REPOS:
+  trunk:
+    - JGProgressHUD
+    - KeychainAccess
+    - Kingfisher
+    - SnapKit
+    - SwiftDate
+    - SwiftHEXColors
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  JGProgressHUD: d83d7a981b85d11205e19ff8ad5bb9c40571c847
+  KeychainAccess: 9b07f665298d13c3a85881bd3171f6f49b8151c1
+  Kingfisher: a3c03d702433fa6cfedabb2bddbe076fb8f2e902
+  SnapKit: 97b92857e3df3a0c71833cce143274bf6ef8e5eb
+  SwiftDate: 6329e58969a2de31cea7f1ee1143b247693196e7
+  SwiftHEXColors: 1cb6e5d55c52749aa33db8f088ac55eb71ca4c7f
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+
+PODFILE CHECKSUM: c7c2052360ce936ec8790bdc84c99ec05687b9e7
+
+COCOAPODS: 1.10.0

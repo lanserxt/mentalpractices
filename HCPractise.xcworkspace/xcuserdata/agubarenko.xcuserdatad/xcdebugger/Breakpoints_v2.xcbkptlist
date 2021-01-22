@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "5B7F4E69-00AA-440E-845C-DC079592E1A7"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B069D38B-FB60-45F6-B290-4232C39894F1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HCPractise/Core/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "setupCoordinator()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A9456803-1FC4-48BA-94D2-F741FC1A43FB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HCPractise/Core/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "setupCoordinator()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9B334FB0-7134-4DBF-83CD-7424658A91E1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HCPractise/Managers/APIManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "61"
+            endingLineNumber = "61"
+            landmarkName = "makeRequest(url:httpMethod:params:typeOf:completionHandler:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9B334FB0-7134-4DBF-83CD-7424658A91E1 - 1057f879e7109128"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in HCPractise.APIManager.makeRequest&lt;A where A: Swift.Decodable, A: Swift.Encodable&gt;(url: Swift.String, httpMethod: HCPractise.HTTPMethod, params: Swift.Optional&lt;SwiftyJSON.JSON&gt;, typeOf: A.Type, completionHandler: (Swift.Result&lt;A, HCPractise.NetworkError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "HCPractise"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/agubarenko/Desktop/HCPractise/HCPractise/Managers/APIManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "61"
+                  endingLineNumber = "61"
+                  offsetFromSymbolStart = "3522">
+               </Location>
+               <Location
+                  uuid = "9B334FB0-7134-4DBF-83CD-7424658A91E1 - 23a60f9d06651626"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in HCPractiseTests.APIManager.makeRequest&lt;A where A: Swift.Decodable, A: Swift.Encodable&gt;(url: Swift.String, httpMethod: HCPractiseTests.HTTPMethod, params: Swift.Optional&lt;SwiftyJSON.JSON&gt;, typeOf: A.Type, completionHandler: (Swift.Result&lt;A, HCPractiseTests.NetworkError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "HCPractiseTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/agubarenko/Desktop/HCPractise/HCPractise/Managers/APIManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "61"
+                  endingLineNumber = "61"
+                  offsetFromSymbolStart = "3522">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "65C72331-4A2A-4373-823E-6773F0DAB83E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HCPractise/Functions/Practices/PracticesDataSource.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C21F7548-155B-4ED4-89D5-84E10AA94EE3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HCPractise/Functions/Practice/PracticeViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "prepareAudioSession(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C21F7548-155B-4ED4-89D5-84E10AA94EE3 - bb001f2be64857a6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HCPractise.PracticeViewModel.prepareAudioSession(Foundation.URL) -&gt; ()"
+                  moduleName = "HCPractise"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/agubarenko/Desktop/HCPractise/HCPractise/Functions/Practice/PracticeViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "110">
+               </Location>
+               <Location
+                  uuid = "C21F7548-155B-4ED4-89D5-84E10AA94EE3 - bbcdfa0927a199b6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HCPractiseTests.PracticeViewModel.prepareAudioSession(Foundation.URL) -&gt; ()"
+                  moduleName = "HCPractiseTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/agubarenko/Desktop/HCPractise/HCPractise/Functions/Practice/PracticeViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "110">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
