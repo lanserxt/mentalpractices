@@ -23,5 +23,5 @@ Practical test for one Siberian Company. You need to relax and set mind waves in
 * Custom URLSession manager
 
 ## Setup
-cd your_path_toProject_podfile
-pod update --vebose
+* cd your_path_to_Project_podfile
+* pod update --vebose
