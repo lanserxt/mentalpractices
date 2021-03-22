@@ -1,4 +1,4 @@
-# iOS Mental Practices Browser + player
+# iOS Mental Practices Browser + Audio Player
 Practical test for one Cool Company. You need to relax and set mind waves into positive shape )
 
 ## Techs
